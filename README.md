@@ -5,7 +5,7 @@ Final project in Game Development course.
 You are a player in a team of 2. Your enemies are also a team of 2.
 Your teammate is following your path.
 Your goal is to kill the enemies by collecting guns and grenades that are hidden over the house.
-![Hidden gun in tv console](/../../../../github/portfolio/blob/main/client/src/pages/images/game4.png)
+![Hidden gun in tv console](/../../../../github/katiaStepovoy/portfolio/blob/main/client/src/pages/images/game4.png)
 Walk in 4 directions using the arrows on keyboard,
 When you see a gun \ grenade you can pick, the target cross that gudes you will turn into a square and you need to press 'space' to collect them.
 To shoot -> press space
