@@ -9,7 +9,7 @@ Your goal is to kill the enemies by collecting guns and grenades that are hidden
 <img src="/../../../../katiaStepovoy/portfolio/blob/main/client/src/pages/images/game4.png" align="center" height="300">  
 </p>
 Walk in 4 directions using the arrows on keyboard,  
-When you see a gun \ grenade you can pick, the target cross that gudes you will turn into a square and you need to press 'space' to collect them.  
+When you see a gun \ grenade you can pick, the target cross that guides you will turn into a square and **you need to press 'space'** to collect them.  
 **To shoot -> press space**  
 **To throw grenade -> press Q**  
 <p align="center">
