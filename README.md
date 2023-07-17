@@ -2,8 +2,8 @@
 Final project in Game Development course.
 
 # How to play?
-You are a player in a team of 2. Your enemies are also a team of 2.
-Your teammate is following your path.
+You are a player in a team of 2. Your enemies are also a team of 2./n
+Your teammate is following your path.\n
 Your goal is to kill the enemies by collecting guns and grenades that are hidden over the house.
 ![Hidden gun in tv console](/../../../../katiaStepovoy/portfolio/blob/main/client/src/pages/images/game4.png)
 Walk in 4 directions using the arrows on keyboard,
